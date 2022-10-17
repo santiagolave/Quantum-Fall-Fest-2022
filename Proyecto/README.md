@@ -1,10 +1,10 @@
-# Nombre del proyecto
+# Rabi-oscillations for the Jaynnes Cummings model.
 
 ## Miembros 
 
-Persona 1, Persona 2, Persona 3, Persona 4, Persona 5. 
+Santiago Olave Escobar. 
 
 ## Descripción
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+El modelo de Jaynnes Cummings explica la interacción entre un campo electromagnetico cuantizado y un átomo que se puede considerar como un sistema de dos estados (excited-ground), sin embargo tambíen puede verse como un modelo que trata la interacción entre un Qubit y una cavidad resonante. Mediante la libreria QuTIP se busco usar el formalismo de la mecánica cuantica junto con su relación con el algebra lineal para lograr hacer evolucionar el hamiltoniano del sistema, y observar el comportamiento del sistema de dos niveles mediante el calculo de la diferencia entre la probabilidad de encontrarlo en el estado excitado y de encontrarlo en el estado base o ground. Esto lleva a las conocidas oscilaciones de Rabi, donde se observa el efecto de Collapse-Revival.
 
